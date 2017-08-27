@@ -6,7 +6,7 @@
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  background: url('../img/bg.jpg') no-repeat center center fixed;
+  background: url('../img/background.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -28,7 +28,8 @@ h1 {
 }
 
 .tagline-lower {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
+  font-weight: 600;
   line-height: 1;
 }
 
